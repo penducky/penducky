@@ -7,14 +7,11 @@
 
 ## ☁️ Tech Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Cloud Providers** | [![AWS](https://skillicons.dev/icons?i=aws "Amazon Web Services")](https://aws.amazon.com/) |
-| **Infrastructure as Code** | [![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](https://developer.hashicorp.com/terraform) |
-| **Containerization** | [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://www.docker.com/) |
-| **Version Control**| [![Git](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/)  |
-| **CI/CD**| [![GitHub Actions](https://skillicons.dev/icons?i=githubactions "GitHub Actions")](https://github.com/features/actions)  |
-| **Scripting & Automation**| [![Python3](https://skillicons.dev/icons?i=py "Python3")](https://www.python.org/) [![bash](https://skillicons.dev/icons?i=bash "bash")](https://www.gnu.org/software/bash/)|
+| Domain | Technologies || Domain | Technologies |
+| :--- | :--- |:--- | :--- | :--- |
+| **Cloud Providers** | [![AWS](https://skillicons.dev/icons?i=aws "Amazon Web Services")](https://aws.amazon.com/) || **Version Control** | [![Git](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com/) [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/)  |
+| **Infrastructure as Code** | [![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](https://developer.hashicorp.com/terraform) || **CI/CD**| [![GitHub Actions](https://skillicons.dev/icons?i=githubactions "GitHub Actions")](https://github.com/features/actions)  || **Scripting & Automation**| [![Python3](https://skillicons.dev/icons?i=py "Python3")](https://www.python.org/) [![bash](https://skillicons.dev/icons?i=bash "bash")](https://www.gnu.org/software/bash/)|
+| **Containerization** | [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://www.docker.com/) || **Scripting & Automation**| [![Python3](https://skillicons.dev/icons?i=py "Python3")](https://www.python.org/) [![bash](https://skillicons.dev/icons?i=bash "bash")](https://www.gnu.org/software/bash/)|
 | **Database**| [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://www.mysql.com/) |
 
 ---
