@@ -15,4 +15,4 @@
 | **Database**| [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://www.mysql.com/) |
 
 ---
-## [📄 Portfolio](penducky.click  "penducky.click")
+## [📄 Portfolio](https://penducky.click/ "penducky.click")
