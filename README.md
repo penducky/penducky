@@ -15,7 +15,4 @@
 | **Database**| [![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")](https://www.mysql.com/) |
 
 ---
-
-## 📄 Portfolio
-
-[![Portfolio](https://raw.githubusercontent.com/penducky/portfolio/refs/heads/main/.github/assets/cloud-mode.png)](penducky.click  "penducky.click")
+## [📄 Portfolio](penducky.click  "penducky.click")
